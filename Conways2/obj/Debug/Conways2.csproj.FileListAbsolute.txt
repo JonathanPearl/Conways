@@ -1,0 +1,14 @@
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\bin\Debug\Conways2.dll
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\bin\Debug\Conways2.pdb
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\bin\Debug\nunit.framework.dll
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\bin\Debug\nunit.framework.xml
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\obj\Debug\Conways2.csprojResolveAssemblyReference.cache
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\obj\Debug\Conways2.dll
+c:\users\jo\documents\visual studio 2012\Projects\Conways2\Conways2\obj\Debug\Conways2.pdb
+C:\Work\GIT\Personal\Conways\Conways2\bin\Debug\Conways2.dll
+C:\Work\GIT\Personal\Conways\Conways2\bin\Debug\Conways2.pdb
+C:\Work\GIT\Personal\Conways\Conways2\bin\Debug\nunit.framework.dll
+C:\Work\GIT\Personal\Conways\Conways2\bin\Debug\nunit.framework.xml
+C:\Work\GIT\Personal\Conways\Conways2\obj\Debug\Conways2.csprojResolveAssemblyReference.cache
+C:\Work\GIT\Personal\Conways\Conways2\obj\Debug\Conways2.dll
+C:\Work\GIT\Personal\Conways\Conways2\obj\Debug\Conways2.pdb
